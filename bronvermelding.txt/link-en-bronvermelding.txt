@@ -1,0 +1,17 @@
+Naam: Dara van Rijn
+Studentnummer: 500928143
+Klas: Azuur
+Schooljaar: 1
+
+LINK NAAR LIVE WEBSITE
+http://www.mijnlivewebsite.nl
+
+BRONVERMELDING
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://internetingishard.netlify.app/html-and-css/
+3. https://www.a11yproject.com/posts/how-to-hide-content/
+4. https://www.youtube.com/watch?v=aswRKAjjWuE
+5. https://www.reisroutes.be/blog/spanje/mooiste-treinreizen-spanje/
+6. https://www.reisjevrij.nl/paklijst-voor-backpacken/ (foto)
+7. https://www.interrail.eu/nl/plan-your-trip/trip-ideas/1-to-3-weeks-in-europe (foto)
+8. https://www.ah.nl/allerhande/recept/R-R1196837/tortilla-espanola-spaanse-tortillax
